@@ -8,9 +8,6 @@
 <table>
   <tr> 
     <td>Java</td>
-    <td>primefaces</td>
-    <td>jsf</td>
-    <td>hiberante</td>
     <td>Dependências</td>
     <td>PostgreSQL</td>
     <td>Eclpse</td>
@@ -18,9 +15,6 @@
   </tr>
   <tr> 
     <td>1.8</td>
-    <td>6</td>
-    <td>2.2*</td>
-    <td>5.2.6</td>
     <td>consultar pom.xml</td>
     <td>9.5*</td>
     <td>3.9.5</td>
