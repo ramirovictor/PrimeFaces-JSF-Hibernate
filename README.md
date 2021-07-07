@@ -17,7 +17,7 @@
     <td>1.8</td>
     <td>consultar pom.xml</td>
     <td>9.5*</td>
-    <td>3.9.5</td>
+    <td>*</td>
     <td>*</td>
   </tr>
 </table>
