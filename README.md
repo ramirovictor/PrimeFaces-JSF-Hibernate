@@ -6,6 +6,8 @@
 
 #### User registration
 
+#### code in portuguese
+
 ## Technologies and Tools
 <table>
   <tr> 
